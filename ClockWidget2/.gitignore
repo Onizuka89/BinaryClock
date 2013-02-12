@@ -1,2 +1,7 @@
 bin
 .metadata
+.project
+.classpath
+gen
+libs/android-support-v4.jar
+proguard-project.txt
